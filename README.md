@@ -6,7 +6,7 @@ Welcome⚡
 
 ### SNAKE GAME WITH REAL SCORE
 
-<a href="https://u7p4l-in.github.io/Snake_Game/"><strong>➥ Live Demo</strong></a>
+<a href="https://u7p4l-in.github.io/TIC-TAC-TOE/"><strong>➥ Live Demo</strong></a>
 
 
 
